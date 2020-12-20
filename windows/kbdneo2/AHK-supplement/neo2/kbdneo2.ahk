@@ -1,4 +1,17 @@
-﻿;*********************
+#IfWinNotExist, ahk_exe Overwatch.exe
+#IfWinNotExist, ahk_exe LANoire.exe
+#IfWinNotExist, ahk_exe RainbowSix.exe
+#IfWinNotExist, ahk_exe RainbowSixGame.exe
+#IfWinNotExist, ahk_exe MassEffectAndromeda.exe
+#IfWinNotExist, ahk_exe atom.exe
+#IfWinNotExist, ahk_exe dota2.exe
+#IfWinNotExist, ahk_exe ROTTR.exe
+#IfWinNotExist, ahk_exe SOTTR.exe
+#IfWinNotExist, ahk_exe Realm.exe
+#IfWinNotExist, ahk_exe Stardew Valley.exe
+#IfWinNotExist, ahk_exe Cyberpunk2077.exe
+
+;*********************
 ; Anfangsbedingungen *
 ;*********************
 name=Neo 2.0 (Erweiterung für nativen Treiber)
